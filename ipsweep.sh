@@ -3,7 +3,7 @@
 if [ "$1" == "" ]
 then
 echo "You forgot an IP address!"
-echo "Syntax: ./ipsweep.sh 192.168.4" #Random address
+echo "Syntax example: ./ipsweep.sh 192.168.4" #Random address
 
 else
 for ip in `seq 1 254`; do
