@@ -18,7 +18,8 @@ print("Time started: "+str(datetime.now()))
 print("-" * 50)
 
 try:
-    for port in range(50,85):
+    for port in range(int(input("Pick starting port: ")),
+    int(input("Pick ending port: "))):
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM) #IPv4, port)
         socket.setdefaulttimeout(1)
         result = s.connect_ex((target, port)) # Returns an error indicator
