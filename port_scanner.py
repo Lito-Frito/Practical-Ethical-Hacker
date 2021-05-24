@@ -9,7 +9,7 @@ if len(sys.argv) == 2:
     target = socket.gethostbyname(sys.argv[1]) # Translate hostname to IPv4
 else:
     print("Invalid amount of arguments.")
-    print("Sysntax: python3 scanner.py <ip>")
+    print("Syntax: python3 scanner.py <ip>")
 
 # Add a pretty banner
 print("-" * 50)
