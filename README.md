@@ -16,9 +16,9 @@ Link to discord server: https://discord.gg/EM6tqPZ
 FAQ: https://github.com/hmaverickadams/Practical-Ethical-Hacking-FAQ
 
 ## What This Includes
-*`port_scanner.py`: A script to scan a host's ports to see which are open.
-*`ip_sweep.sh`: A script to see which hosts, by IP address, are connected to a network.
-*`turn-key_socket.py`: A script to create a web socket.
+* `port_scanner.py`: A script to scan a host's ports to see which are open.
+* `ip_sweep.sh`: A script to see which hosts, by IP address, are connected to a network.
+* `turn-key_socket.py`: A script to create a web socket.
 
 # Getting Started
 
