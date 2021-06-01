@@ -33,6 +33,6 @@ You can go to [repl.it](https://github.com/crc8109/Practical-Ethical-Hacker.git)
 Clone the repo (in your terminal, type `git clone https://github.com/crc8109/Certified-Ethical-Hacker.git`) and then open the CLI for the directory you just created. Here's the instructions for running the first two scripts, the ones that are used for reconnaissance:
 
 *`python3 port_scanner.py > Open_ports.txt`; then enter a starting port # and an ending port # (e.g. `1 65000`) so the scan can start
-*`./ip_sweep.sh <the first 3 octets of your network>` (e.g `192.168.0`); feel free to also add redirect the output to a file too (e.g. `./ip_sweep.sh 192.168.0 > connected_hosts.txt`)
+*`./ip_sweep.sh <the first 3 octets of your network>` (e.g `192.168.0`); feel free to also redirect the output to a file too (e.g. `./ip_sweep.sh 192.168.0 > connected_hosts.txt`)
 
 If this doesn't work, feel free to reach out.
