@@ -1,5 +1,4 @@
 # CEH Toolbelt
-## [![Run on Repl.it](https://github.com/crc8109/Practical-Ethical-Hacker)](https://replit.com/@crc8109/Practical-Ethical-Hacker)
 
 These are some tools I made from taking from [The Cyber Mentor's](https://github.com/TCM-Course-Resources) course on certified ethical hacking.
 
