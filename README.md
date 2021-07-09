@@ -1,4 +1,4 @@
-# CEH Toolbelt
+# PEH Toolbelt
 
 These are some tools I made from taking from [The Cyber Mentor's](https://github.com/TCM-Course-Resources) course on certified ethical hacking.
 
