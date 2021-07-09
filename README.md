@@ -25,9 +25,6 @@ FAQ: https://github.com/hmaverickadams/Practical-Ethical-Hacking-FAQ
 * Python3
 * a CLI (if you're on Windows, this is the Command Prompt; for Linux and Mac, this is your terminal)
 
-## Quick Start
-You can go to [repl.it](https://github.com/crc8109/Practical-Ethical-Hacker.git) where I'm hosting the app in a personal repl. When you click the link, just hit the button up top that says `Run` with the forward arrow and the scripts will start up, to show you how they work.
-
 ## Starting from Scratch
 Clone the repo (in your terminal, type `git clone https://github.com/crc8109/Certified-Ethical-Hacker.git`) and then open the CLI for the directory you just created. Here's the instructions for running the first two scripts, the ones that are used for reconnaissance:
 
