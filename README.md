@@ -30,5 +30,6 @@ Clone the repo (in your terminal, type `git clone https://github.com/crc8109/Cer
 
 * `python3 port_scanner.py > Open_ports.txt`; then enter a starting port # and an ending port # (e.g. `1 65000`) so the scan can start
 * `./ip_sweep.sh <the first 3 octets of your network>` (e.g `192.168.0`); feel free to also redirect the output to a file too (e.g. `./ip_sweep.sh 192.168.0 > connected_hosts.txt`)
+* In one terminal, run `netcat -nvlp 7777` (this just tells your machine to listen to port 7777 for a connection). In another terminal run `python3 turn-key_socket.py`. You should see in the first terminal that a connection was made. This means this script works.
 
 If this doesn't work, feel free to reach out.
